@@ -1,9 +1,13 @@
 # Heyo, it's Axwaizee here! 🧑‍💻
 
-I'm a Developer 👩‍💻 at learning and exploring stage... interested in AI, Web Development, Networking. 
+## 🧬About Me
+
+I'm a passionate developer 👩‍💻 with experience in various programming languages also at learning and exploring stage... interested in AI, Automations, Web Development, Networking, etc. 
 
 > 😁 I usually make small projects and for my personal works and for fun
 >
-> 🤔 I'm looking for a partner for crazy developments.
+> 🤔 I'm looking for a partner or team for crazy developments.
 >
 > 👯‍♀️ Can we collaborate on anything you like?
+
+Currently, I am onto open souce projects and contributing them. 
