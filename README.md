@@ -10,7 +10,9 @@ I'm a passionate developer 👩‍💻 with experience in various programming la
 >
 > 👯‍♀️ Can we collaborate on anything you like?
 
-Currently, I am onto open souce projects and contributing them. 
+Currently, enhancing full stack development.
+
+Also, I am onto open souce projects and contributing them.
 
 ## 🔗 Links
 
