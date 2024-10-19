@@ -13,13 +13,3 @@ I'm a passionate developer 👩‍💻 with experience in various programming la
 Currently, enhancing full stack development.
 
 Also, I am onto open souce projects and contributing them.
-
-## 🔗 Links
-
-You can find me on:
-- [LinkedIn](https://linkedin.com/in/axwaizee)
-- [Twitter](https://twitter.com/axwaizee)
-- [Instagram](https://instagram.com/axwaizee)
-- [Fiverr](https://fiverr.com/axwaizee)
-
-Feel free to reach out if you have any questions or just want to chat!
