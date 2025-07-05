@@ -2,7 +2,7 @@
 
 ## 🧬About Me
 
-I'm a passionate developer 👩‍💻 with experience in various programming languages also at learning and exploring stage... quick learner... interested in AI, Automations, Web Development, Networking, etc. 
+I'm a passionate developer 👩‍💻 with experience in various programming languages also at learning and exploring stage... quick learner... speak more do less.. interested in AI, Automations, Web Development, Networking, etc. 
 
 > 😁 I usually make small projects and for my personal works and for fun
 >
