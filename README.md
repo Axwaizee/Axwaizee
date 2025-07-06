@@ -1,5 +1,6 @@
 <div align="center">
-# Heyo, it's ![axwaizee](assets/Axwaizee.png) here! 🧑‍💻
+<h1> Heyo, it's <img src="assets/Axwaizee.png"> here! 🧑‍💻
+</h1>
 </div>
 
 ## 🧬About Me
