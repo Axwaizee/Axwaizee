@@ -1,4 +1,6 @@
-# Heyo, it's Axwaizee here! 🧑‍💻
+<div align="center">
+# Heyo, it's ![axwaizee](assets/Axwaizee.png) here! 🧑‍💻
+</div>
 
 ## 🧬About Me
 
